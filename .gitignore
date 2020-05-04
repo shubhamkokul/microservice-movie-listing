@@ -3,3 +3,12 @@ discovery-server/src/main/resources/application.properties
 movie-catalog-service/src/main/resources/application.properties
 movie-info-service/src/main/resources/application.properties
 movie-rating-data-service/src/main/resources/application.properties
+
+.classpath
+.idea
+.project
+.settings
+*.iml
+*.swp
+target
+*.properties
